@@ -1,9 +1,14 @@
+
 # 2020SeasonResources
 Resources and documentation for the 2020 season
 
 ## WPILib Documentation
 
 https://docs.wpilib.org/en/latest/
+
+### Install the latest WPILib on your machine
+
+https://docs.wpilib.org/en/latest/docs/getting-started/getting-started-frc-control-system/wpilib-setup.html
 
 ### Driving the robot
 
