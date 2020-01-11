@@ -25,3 +25,7 @@ https://docs.wpilib.org/en/latest/docs/software/wpilib-tools/path-planning/wpili
 ### Tutorial on using all these together
 
 https://docs.wpilib.org/en/latest/docs/software/trajectory-end-to-end/index.html
+
+## Using SparkMax PID control
+
+https://github.com/REVrobotics/SPARK-MAX-Examples/blob/master/Java/Velocity%20Closed%20Loop%20Control/src/main/java/frc/robot/Robot.java
