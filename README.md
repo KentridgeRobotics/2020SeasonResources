@@ -10,6 +10,8 @@ https://docs.wpilib.org/en/latest/
 
 https://docs.wpilib.org/en/latest/docs/getting-started/getting-started-frc-control-system/wpilib-setup.html
 
+[RoboRio Connectivity Troubleshooting](https://github.com/KentridgeRobotics/2020SeasonResources/blob/master/Troubleshooting.md)
+
 ### Driving the robot
 
 Read about Kinematics and Odometry here: https://docs.wpilib.org/en/latest/docs/software/kinematics-and-odometry/index.html
